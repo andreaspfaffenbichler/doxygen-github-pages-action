@@ -4,7 +4,8 @@ GitHub Action for making and deploying Doxygen documentation to a GitHub pages b
 
 > [!IMPORTANT]
 > This Action uses doxygen from https://github.com/andreaspfaffenbichler/doxygen!
-> This enables https://github.com/doxygen/doxygen/pull/12455
+> 
+> This enables https://github.com/doxygen/doxygen/pull/12455 : Add "Godbolt" link for snippet
 
 ## Basic Usage
 
