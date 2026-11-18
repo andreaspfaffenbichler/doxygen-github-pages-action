@@ -2,6 +2,10 @@
 
 GitHub Action for making and deploying Doxygen documentation to a GitHub pages branch
 
+> [!IMPORTANT]
+> This Action uses doxygen from https://github.com/andreaspfaffenbichler/doxygen!
+> This enables https://github.com/doxygen/doxygen/pull/12455
+
 ## Basic Usage
 
 To deploy docs on every push to the `main` branch, create a new file in the `.github/workflows/` directory called `doxygen-gh-pages.yml` with the following contents:
